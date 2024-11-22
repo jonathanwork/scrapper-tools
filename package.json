@@ -1,0 +1,17 @@
+{
+  "name": "scrapper_tool",
+  "version": "1.0.0",
+  "description": "scrapper tool ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonathan r lopez",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "jsdom": "^25.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
